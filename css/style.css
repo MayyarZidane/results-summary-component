@@ -173,6 +173,13 @@ p {
   border-radius: 15px;
 }
 
+@media (min-width: 992px) {
+  .card-result .result-summary div {
+    padding: 17px;
+  }
+
+}
+
 .card-result .result-summary div img {
   margin-right: 15px;
 }
